@@ -3,8 +3,8 @@ package com.enchanted.Solution;
 import com.enchanted.DataStructure.Tree.TreeNode;
 
 /**
- * @ClassName: LeetCode
- * @Description: TODO
+ * @ClassName: LeetCode226
+ * @Description: TODO：翻转二叉树
  * @PackageName:com.enchanted.Solution
  * @Author Enchanted
  * @Date 2023/10/13 09:11
