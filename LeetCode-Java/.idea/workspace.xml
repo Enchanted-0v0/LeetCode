@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d001fcf-4372-4673-b6a1-fb8883aa3ec7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enchanted/DataStructure/Tree/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enchanted/Solution/LeetCode114.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enchanted/Solution/LeetCode116.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enchanted/Solution/LeetCode266.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/enchanted/Solution/TestLeetCode116.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/enchanted/leetcode/LeetCode654.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../Maven/MavenRepository" />
+        <option name="mavenHome" value="$USER_HOME$/.sdkman/candidates/maven/3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/.sdkman/candidates/maven/3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2YYd5BkHHZif4ki1XDXIfLMbLUf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev-Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.14619881&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.LeetCode654Test.testConstructMaximumBinaryTree">
+    <configuration name="LeetCode654Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enchanted.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enchanted.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.enchanted.leetcode.LeetCode654Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode654Test.testConstructMaximumBinaryTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enchanted.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enchanted.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.enchanted.leetcode.LeetCode654Test" />
+      <option name="METHOD_NAME" value="testConstructMaximumBinaryTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode654Test.testConstructMaximumBinaryTree" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enchanted.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enchanted.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.enchanted.leetcode.LeetCode654Test" />
+      <option name="METHOD_NAME" value="testConstructMaximumBinaryTree" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LeetCode654Test.testConstructMaximumBinaryTree" />
+        <item itemvalue="JUnit.LeetCode654Test" />
+        <item itemvalue="TestNG.LeetCode654Test.testConstructMaximumBinaryTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d001fcf-4372-4673-b6a1-fb8883aa3ec7" name="Changes" comment="" />
+      <created>1700706261552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700706261552</updated>
+      <workItem from="1700706262675" duration="2681000" />
+      <workItem from="1700791894078" duration="1580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
